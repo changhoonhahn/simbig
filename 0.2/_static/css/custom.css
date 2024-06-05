@@ -1,0 +1,16 @@
+div.section table, td
+{
+  white-space: normal !important;  
+}
+
+div.section tbody, tr, td
+{
+  border: none; 
+}
+
+div.section thead, th
+{
+  color: #FFFFFF;
+  background-color: #4472C4;    
+}
+
