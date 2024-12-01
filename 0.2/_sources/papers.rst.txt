@@ -4,7 +4,7 @@ Our Papers
 | |paper5|_
 | Nature Astronomy (2024)
 |
-| *We apply the* ``SimBIG`` *to analyze the SDSS-III: BOSS CMASS galaxies using two clustering statistics beyond the standard power spectrum: the bispectrum and a summary of the galaxy field based on a convolutional neural network. We constrain H0 and S8 1.5 and 1.9 times more tightly than power spectrum analyses.* 
+| *We apply the* ``SimBIG`` *to analyze the SDSS-III: BOSS CMASS galaxies using two clustering statistics beyond the standard power spectrum: the bispectrum and a summary of the galaxy field based on a convolutional neural network. We constrain the cosmic expansion (H0) and growth rate (S8) 1.5 and 1.9 times more tightly than power spectrum analyses.* 
 
 
 | |paper4|_
