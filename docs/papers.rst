@@ -1,49 +1,49 @@
 Our Papers 
 =================
 
-| |paper5|_
+| 8. |paper5|_
 | Nature Astronomy (2024)
 |
 | *We apply the* ``SimBIG`` *to analyze the SDSS-III: BOSS CMASS galaxies using two clustering statistics beyond the standard power spectrum: the bispectrum and a summary of the galaxy field based on a convolutional neural network. We constrain the cosmic expansion (H0) and growth rate (S8) 1.5 and 1.9 times more tightly than power spectrum analyses.* 
 
 
-| |paper4|_
+| 7. |paper4|_
 | PRD accepted (2024)
 |
 | *We apply the* ``SimBIG`` *to analyze the masked power spectra of SDSS-III: BOSS CMASS galaxies.* 
 
 
-| |paper3|_
+| 6. |paper3|_
 | PRD 109, 3528 (2024)
 |
 | *We apply the* ``SimBIG`` *to analyze the skew spectra of SDSS-III: BOSS CMASS galaxies.* 
 
 
-| |paper2|_
+| 5. |paper2|_
 | PRD 109, 3534 (2024)
 |
 | *We apply the* ``SimBIG`` *to analyze the bispectrum of SDSS-III: BOSS CMASS galaxies.* 
 
 
-| |paper1|_
+| 4. |paper1|_
 | PRD 109, 3535 (2024)
 |
 | *We apply the* ``SimBIG`` *to analyze the wavelet scattering transform of SDSS-III: BOSS CMASS galaxies.* 
 
 
-| |paper0|_
+| 3. |paper0|_
 | PRD 109, 3536 (2024)
 |
 | *We apply the* ``SimBIG`` *to conduct a field-level inference of SDSS-III: BOSS CMASS galaxies based on convolutional neural networks.* 
 
 
-| |letter|_
+| 2. |letter|_
 | PNAS 120, 42 (2023)
 |
 | *We present the* ``SimBIG`` *framework and apply it to analyze the power spectrum of SDSS-III: BOSS CMASS galaxies.  We demonstrate that we can rigorously analyze galaxy clustering down to non-scales (k=0.5 h/Mpc) and extract additional cosmological information beyondc current standard anlayses.* 
 
 
-| |mocha|_
+| 1. |mocha|_
 | JCAP 2023, 4 (2022)
 |
 | *We present the mock challenge used to validate the* ``SimBIG`` *framework.  The mock challenge consists of 1,500 test simulations constructed using forward models with different N-body simulation, halo finder, and galaxy-halo connection. With these simulations, we rigorously validate the accuarcy and precision of the posteriors inferred from* ``SimBIG`` 
